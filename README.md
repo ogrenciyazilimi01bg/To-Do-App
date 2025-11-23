@@ -66,5 +66,3 @@ tarayıcıda bu açın
 
 
 
-## Proje Yapısı
-
